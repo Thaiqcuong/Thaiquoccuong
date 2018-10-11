@@ -1,0 +1,176 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+html{
+	max-width: auto;
+    line-height: 1.5;
+    max-height: auto;
+
+   
+}
+#header.noidungchinh {
+	
+    background-color: #590967; 
+    background-image: linear-gradient(to right, #5B2C59 , #C52EE0);
+    padding: 50px;
+    display: table;
+    padding-left: 10%;
+}
+.noidungphu{
+    background-color: #E0D4D4; 
+  
+    
+}
+.con,.con-2,.content3{
+    padding-left: 10%;
+    
+}
+.con{
+    border-width: 3px;
+}
+.smallcontent-1{
+	
+	display: inline-block;
+	 float: left;
+    width:44.44%;
+    padding: 15px;
+}
+
+.contains,.small-image,.small2-image,.small3-image,.content3{
+ display: table;
+}
+.smallcontent-2{
+	display: inline-block;
+	 float: left;
+    width:44.44%;
+    padding: 15px;
+
+}
+.nnn{
+   padding-left: 250px;
+
+}
+
+
+.bbb{
+	display: inline-block;
+	 float: left ;
+    width:44.44%;
+    padding: 15px;
+}
+.cc{
+	display: inline-block;
+	 float: left ;
+    width:44.44%;
+    padding: 15px;
+}
+.small-1{
+	display: inline-block;
+	 float: left ;
+    width:44.44%;
+    padding: 15px;
+}
+h1{
+	color: #FFFFFF;
+}
+.content-1{
+    text-align: center;
+}
+.font{
+	color: #D2AAE7;
+}
+#nut{
+ 
+    color: #FFFFFF; 
+    background-color: #115F25;
+    padding: 10px;
+    border-radius: 15px;
+    text-align: center;
+    width: 140px;
+
+}
+#nut-1{
+ 
+    color: #0D0C0C; 
+    background-color: #FFFBFB;
+    padding: 10px;
+    border-radius: 16px;
+    
+    width: 140px;
+ 
+}
+#nut-2{
+ 
+    color:  #0D0C0C; 
+    background-color: #FFFBFB;
+    padding: 10px;
+    border-radius: 16px;
+    text-align: center;
+    width: 200px;
+
+
+
+ 
+}
+#nut-3{
+ 
+    color:  #0D0C0C;  
+    background-color: #FFFBFB;
+    padding: 10px;
+    border-radius: 16px;
+    text-align: center;
+    width: 140px;
+}
+
+
+button{
+ 
+    color:  #0D0C0C; 
+    background-color: #FFFBFB;
+    padding: 10px;
+    border-radius: 16px;
+    text-align: center;
+    width: 140px;
+ 
+}
+.content2{
+	background-color:  #F8F8F8;
+}
+img{
+	border-radius: 8px;
+	float: left ;
+}
+.aaa{
+	 
+	  overflow: hidden;
+}
+
+.Name{
+	padding: 8px;
+    
+
+}
+footer{
+    text-align: center;
+}
+.fa-twitter{
+    color: #0BBCA9;
+}
+.fa-facebook{
+    color: #222ACF;
+}
+.fa-camera-retro{
+    color: #0E0D0D;
+}
+.fa-envelope{
+    color: #D61F8B;
+}
+.fa-home { 
+    color: #341FD2;
+     }
+
+#smalll{
+    line-height: 2.5;
+}
